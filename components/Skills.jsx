@@ -23,7 +23,6 @@ const Skill = [
   { name: "NodeJs", icon: <Nodejs boxSize={["10", "12", "16"]} /> },
   { name: "MongoDB", icon: <Mongodb boxSize={["10", "12", "16"]} /> },
   { name: "Firebase", icon: <Firebase boxSize={["10", "12", "16"]} /> },
-  
 ];
 
 const MotionHeading = motion(Heading);
